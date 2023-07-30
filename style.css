@@ -1,0 +1,23 @@
+#countryCardsRow {
+    background-color: #1b323d;
+    text-align: center;
+}
+
+.card {
+    margin: 20px;
+    background-color: #d6c5a1;
+    background-image: linear-gradient(62deg, #d6c5a1 0%, #3e5051 100%);
+    color: white;
+    padding: 0;
+
+
+}
+
+.card-header {
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+img {
+   padding: 12px;
+}
